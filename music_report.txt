@@ -1,0 +1,16 @@
+Character: Alexander -> Song: Alexander - Cancion de entrada.mp3
+Character: Angelica -> Song: Angelica - Cancion de entrada.mp3
+Character: Angie -> Song: Angie - Cancion de entrada.mp3
+Character: Ashley -> Song: Ashley - Cancion de entrada.mp3
+Character: Cristina -> Song: Cristina - Cancion de entrada.mp3
+Character: Cristofer -> Song: Cristofer - Cancion de entrada.mp3
+Character: Daniel -> Song: Daniel - Cancion de entrada.mp3
+Character: Douglas -> Song: Douglas - Cancion de entrada.mp3
+Character: Hans -> Song: Hans - Cancion de entrada.mp3
+Character: Kristen -> Song: Kristen - Cancion de entrada.mp3
+Character: Leonardo -> Song: Leonardo - Cancion de entrada.mp3
+Character: Martin -> Song: Martin - Cancion de entrada.mp3
+Character: Miguel -> Song: Miguel - Cancion de entrada.mp3
+Character: Oliver -> Song: Oliver - Cancion de entrada.mp3
+Character: Pablo -> Song: Pablo - Cancion de entrada.mp3
+Character: Tannia -> Song: Tannia - Cancion de entrada.mp3
